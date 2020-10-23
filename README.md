@@ -1,2 +1,3 @@
-# ETL-project-G11
-Group11
+ETL-project-G11
+
+Presidential Candidate Campaign Spending and Polling Data
