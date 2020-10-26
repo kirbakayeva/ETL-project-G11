@@ -17,6 +17,7 @@ CREATE TABLE "Polls" (
 ALTER TABLE "Polls"
 ADD COLUMN id SERIAL PRIMARY KEY;
 
+
 CREATE TABLE "Candidate_Spending" (
  "committee_id" VARCHAR,
  "disbursement_date" DATE,
